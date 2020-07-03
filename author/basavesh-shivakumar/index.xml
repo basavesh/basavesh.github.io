@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basavesh Shivakumar</title>
-    <link>https://basavesh.github.io/</link>
-      <atom:link href="https://basavesh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://basavesh.github.io/author/basavesh-shivakumar/</link>
+      <atom:link href="https://basavesh.github.io/author/basavesh-shivakumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Basavesh Shivakumar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Basavesh Shivakumar</title>
-      <link>https://basavesh.github.io/</link>
+      <link>https://basavesh.github.io/author/basavesh-shivakumar/</link>
     </image>
     
   </channel>
