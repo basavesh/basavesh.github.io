@@ -2,21 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://basavesh.github.io/authors/</loc>
-  </url><url>
     <loc>https://basavesh.github.io/</loc>
   </url><url>
-    <loc>https://basavesh.github.io/author/basavesh-ammanaghatta-shivakumar/</loc>
-  </url><url>
     <loc>https://basavesh.github.io/categories/</loc>
-  </url><url>
-    <loc>https://basavesh.github.io/post/</loc>
-  </url><url>
-    <loc>https://basavesh.github.io/publication_types/</loc>
-  </url><url>
-    <loc>https://basavesh.github.io/publication/</loc>
-  </url><url>
-    <loc>https://basavesh.github.io/talk/</loc>
   </url><url>
     <loc>https://basavesh.github.io/tags/</loc>
   </url>
